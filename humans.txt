@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tuomo Ruottinen tuomo.ruottinen@outlook.com	@tuomoruottinen
 
 # THANKS
 
