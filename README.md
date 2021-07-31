@@ -20,4 +20,4 @@ Please fork this repository and issue pull requests for review.
 
 ### Copyright
 
-2021 Tuomo Ruottinen
+2021 Tuomo Ruottinen. All rights reserved.
